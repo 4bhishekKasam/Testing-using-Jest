@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="App"
+>
+  <br />
+  <div>
+     
+    <button
+      onClick={[Function]}
+    >
+      Hide
+    </button>
+  </div>
+  <br />
+  <div>
+    <button
+      className="increment"
+      onClick={[Function]}
+    >
+      Increment count
+    </button>
+    <button
+      className="decrement"
+      onClick={[Function]}
+    >
+      Decrement count
+    </button>
+  </div>
+  <br />
+  <div>
+    0
+  </div>
+</div>
+`;
+
+exports[`My first snapshot test testing app button 1`] = `
+<div
+  className="App"
+>
+  <br />
+  <div>
+     
+    <button
+      onClick={[Function]}
+    >
+      Show
+    </button>
+  </div>
+  <br />
+  <div>
+    <button
+      className="increment"
+      onClick={[Function]}
+    >
+      Increment count
+    </button>
+    <button
+      className="decrement"
+      onClick={[Function]}
+    >
+      Decrement count
+    </button>
+  </div>
+  <br />
+  <div>
+    0
+  </div>
+</div>
+`;
